@@ -3,11 +3,10 @@
   "version": "0.0.1",
   "description": "基于vue的日历组件",
   "author": "Guilin Yang",
-  "private": true,
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/fan3718/NODE/tree/yangguilin/censorify"
+    "url": "https://github.com/fan3718/NODE/tree/master/Datepicker"
   },
   "keywords": ["datepicker","vue"],
   "author": "Yang Guilin",
