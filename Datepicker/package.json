@@ -1,0 +1,20 @@
+{
+  "name": "vue-datepicker3718",
+  "version": "0.0.1",
+  "description": "基于vue的日历组件",
+  "author": "Guilin Yang",
+  "private": true,
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fan3718/NODE/tree/yangguilin/censorify"
+  },
+  "keywords": ["datepicker","vue"],
+  "author": "Yang Guilin",
+  "dependencies": {
+    "moment": "^2.14.1",
+    "ramda": "^0.21.0",
+    "vue-datepicker": "^1.3.0"
+  },
+  "devDependencies": {}
+}

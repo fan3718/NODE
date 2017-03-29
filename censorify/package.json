@@ -1,5 +1,5 @@
 {
-  "name": "censorify",
+  "name": "censorify_guilin",
   "version": "0.0.1",
   "description": "Censors words out of text,it is only a test",
   "main": "censortext",
