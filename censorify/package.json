@@ -3,8 +3,14 @@
   "version": "0.0.1",
   "description": "Censors words out of text,it is only a test",
   "main": "censortext",
-  "repository": "",
-  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fan3718/NODE/tree/yangguilin/censorify"
+  },
+  "keywords": ["censor","words"],
   "author": "Yang Guilin",
-  "dependencies": {}
+  "dependencies": {},
+  "engines": {
+    "node": "*"
+  }
 }
